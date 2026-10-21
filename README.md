@@ -62,3 +62,4 @@ El modelo superó el valor mínimo de F1 establecido para el proyecto. El result
 El proyecto demuestra cómo aplicar técnicas de aprendizaje automático para abordar un problema de clasificación relacionado con la retención de clientes bancarios. La comparación de modelos, el tratamiento del desequilibrio de clases y el ajuste del umbral permitieron obtener un modelo que cumple con el criterio mínimo de F1 establecido.
 
 Este trabajo forma parte de mi formación práctica en ciencia de datos y refleja la aplicación de técnicas de análisis de datos y modelado predictivo a un problema de negocio del sector financiero.
+
